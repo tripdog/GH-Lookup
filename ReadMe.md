@@ -11,7 +11,7 @@ you decide to close the editor down it needs to be restarted. Painful lesson.
 2. Template literals are powerful. 
 
 3. You can create HTML style it and invoke it with a simple function like
-this: const createCard = (data) => ` <html stye="some-style"></html> `
+this: const createCard = (data) => ` <html style="some-style"></html> `
 This is a pretty powerful concept for returning data from an api and styling
 it on the page.
 
