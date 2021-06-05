@@ -13,4 +13,4 @@ this: const createCard = (data) => ` <html stye="some-style"></html> `
 This is a pretty powerful concept for returning data from an api and styling
 it on the page.
 
-![screen shot](https://github.com/[tripdog]/[GH-lookup]/blob/[master]/screen-shot.jpg?raw=true)
+![screen shot](https://github.com/[tripdog]/[GH-lookup]/blob/[master]/GH-lookup/screen-shot.jpg?raw=true)
