@@ -12,3 +12,5 @@ you decide to close the editor down it needs to be restarted. Painful lesson.
 this: const createCard = (data) => ` <html stye="some-style"></html> `
 This is a pretty powerful concept for returning data from an api and styling
 it on the page.
+
+(https://github.com/tripdog/GH-lookup/blob/main/screen-shot.png?raw=true)
